@@ -25,13 +25,13 @@ devofkia = {
 
 <div align="center">
 
-### fun facts
+### About me
 
- &nbsp;Baseball is the most mathematical sport and i will die on this hill
+ &nbsp;Baseball is the most mathematical sport
 
- &nbsp;I think AI might already be sentient — which makes coding feel a little different
+ &nbsp;I think AI might already be sentient, makes coding feel a little different
 
- &nbsp;game dev was my first language, Python is my second
+ &nbsp;Used to make small games, now I make small AI
 
 </div>
 
